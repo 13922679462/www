@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    height: 36px;
+    background: #F5F5F5;
+    border-bottom:1px solid #EEE
+
+}
+.head .head-body{
+    margin: 0 auto;
+    width: 990px;
+    height: 35px;
+    background: #F5F5F5;
+
+}
+.head-ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+.head-ul li{
+   height: 100%;
+    float: left;
+    margin-right: 7px;
+  
+}
+.head-ul li a{
+    height: 100%;
+    color: #000000;
+    text-decoration: none;
+    line-height: 35px;
+}
